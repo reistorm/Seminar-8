@@ -42,7 +42,7 @@ int[,] ChangeRowArray(int[,] array)
     {
         temp = array[0,i];
         array[0,i] = array[array.GetLength(0) - 1, i];
-        array[array.GetLength(0) -1, i] = temp;
+        array[array.GetLength(0) - 1, i] = temp;
     }
     return array;
 }
