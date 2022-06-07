@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_59prep\obj\Debug\net6.0\Task_59prep.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_59prep\obj\Debug\net6.0\Task_59prep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_59prep\obj\Debug\net6.0\Task_59prep.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_59prep\obj\Debug\net6.0\Task_59prep.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_59prep\obj\Debug\net6.0\Task_59prep.csproj.CoreCompileInputs.cache
