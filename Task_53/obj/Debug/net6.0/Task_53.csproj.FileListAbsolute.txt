@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\bin\Debug\net6.0\Task_53.exe
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\bin\Debug\net6.0\Task_53.deps.json
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\bin\Debug\net6.0\Task_53.runtimeconfig.json
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\bin\Debug\net6.0\Task_53.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\bin\Debug\net6.0\Task_53.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.AssemblyInfo.cs
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\refint\Task_53.dll
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.pdb
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\Task_53.genruntimeconfig.cache
+C:\Users\User\Desktop\IT\C #\ДЗ 8\S8\Task_53\obj\Debug\net6.0\ref\Task_53.dll
